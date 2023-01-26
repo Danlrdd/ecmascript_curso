@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript_curso",
+  "version": "1.0.0",
+  "description": "Curso de aprendisaje ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danlrdd/ecmascript_curso.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "developer"
+  ],
+  "author": "Daniel Zavala dan.zavt@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danlrdd/ecmascript_curso/issues"
+  },
+  "homepage": "https://github.com/Danlrdd/ecmascript_curso#readme"
+}
