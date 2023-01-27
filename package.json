@@ -17,6 +17,7 @@
   ],
   "author": "Daniel Zavala dan.zavt@outlook.com",
   "license": "MIT",
+  "type": "module", 
   "bugs": {
     "url": "https://github.com/Danlrdd/ecmascript_curso/issues"
   },
